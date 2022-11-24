@@ -6,7 +6,7 @@
         "MDisk",
         "shortner"
     ],
-    "website": "https://github.com/CyniteOfficial/Mdisk-Link-Converter-Bot",
+    "website": "https://github.com/su-mi-t/Mdisk-Link-Converter-Bot",
     "repository": "https://github.com/su-mi-t/Mdisk-Link-Converter-Bot",
     "env": {
         "BOT_TOKEN": {
